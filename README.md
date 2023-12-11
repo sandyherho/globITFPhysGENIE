@@ -1,5 +1,8 @@
 # `globITFPhysGENIE`: Role of Indonesian Archipelago on Global Thermohaline Circulation: Insights from Numerical Experiments
 
+
+[![DOI](https://zenodo.org/badge/727480497.svg)](https://zenodo.org/doi/10.5281/zenodo.10358231)
+
 ![Overleaf](https://img.shields.io/badge/-Overleaf-47A141?logo=Overleaf&style=for-the-badge&logoColor=white)
 ![latex](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
 ![SCIPY](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)
