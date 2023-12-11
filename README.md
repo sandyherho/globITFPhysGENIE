@@ -75,7 +75,7 @@ We conducted numerical experiments on the sterling.ucr.edu server, which possess
 - Operating System: CentOS Linux release 7.4.1708 (Core)
 - CPU Model: Intel(R) Xeon(R) CPU E5-2637 v4 @ 3.50GHz - 16 CPU(s)
 
-This server was graciously provided by the Department of Earth and Planetary Sciences at the University of California, Riverside.
+This server was graciously provided by the [Department of Earth and Planetary Sciences](https://epsci.ucr.edu/) at the [University of California, Riverside](https://www.ucr.edu/).
 
 Simultaneously, the analysis of the model output data was performed on a personal computer with the following configuration:
 
