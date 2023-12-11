@@ -10,6 +10,7 @@
 ![Overleaf](https://img.shields.io/badge/-Overleaf-47A141?logo=Overleaf&style=for-the-badge&logoColor=white)
 
 
+This repository contains the code associated with the study employing the cGENIE Earth System Model to investigate the effects of the Indonesian Throughflow (ITF) and Indonesian Archipelago (IA) closure on global meridional thermohaline circulation (THC). The study spans a simulated period of 10,000 years, focusing on critical variables such as surface density, vertical density profiles, global overturning circulation, and ocean ventilation age.
 
 The following are the individuals involved in this project: [S. H. S. Herho](https://scholar.google.com/citations?user=uYQgjxMAAAAJ&hl=id), [I. P. Anwar](https://scholar.google.co.id/citations?user=NMs_TswAAAAJ&hl=id), [R. D. Susanto](https://scholar.google.com/citations?user=xony5H4AAAAJ&hl=en), [G. A. Firdaus](https://www.linkedin.com/in/gisma2/?originalSubdomain=id), [D. E. Irawan](https://scholar.google.com/citations?user=Myvc78MAAAAJ&hl=en), and [R. Kapid](https://scholar.google.co.id/citations?user=oArSkkYAAAAJ&hl=en).
 
