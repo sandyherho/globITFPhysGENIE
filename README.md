@@ -11,7 +11,7 @@
 
 
 
-The following are the individuals involved in this project: [S. H. S. Herho](https://scholar.google.com/citations?user=uYQgjxMAAAAJ&hl=id), [I. P. Anwar](https://scholar.google.co.id/citations?user=NMs_TswAAAAJ&hl=id), [R. D. Susanto](https://scholar.google.com/citations?user=xony5H4AAAAJ&hl=en), G. A. Firdaus, [D. E. Irawan](https://scholar.google.com/citations?user=Myvc78MAAAAJ&hl=en), and [R. Kapid](https://scholar.google.co.id/citations?user=oArSkkYAAAAJ&hl=en).
+The following are the individuals involved in this project: [S. H. S. Herho](https://scholar.google.com/citations?user=uYQgjxMAAAAJ&hl=id), [I. P. Anwar](https://scholar.google.co.id/citations?user=NMs_TswAAAAJ&hl=id), [R. D. Susanto](https://scholar.google.com/citations?user=xony5H4AAAAJ&hl=en), [G. A. Firdaus](https://www.linkedin.com/in/gisma2/?originalSubdomain=id), [D. E. Irawan](https://scholar.google.com/citations?user=Myvc78MAAAAJ&hl=en), and [R. Kapid](https://scholar.google.co.id/citations?user=oArSkkYAAAAJ&hl=en).
 
 ## License
 These data and code were released under the [GPL-3.0 License](https://github.com/sandyherho/globITFPhysGENIE/blob/main/LICENSE.txt).
@@ -66,4 +66,4 @@ conda activate globITFPhysGENIE
 ```
 
 ## Acknowledgements
-We are grateful to Michael N. Evans (UMD) for discussing fractionation on precipitation isotopes in the tropics, which was useful in producing these data. This study was supported by ITB Research, Community Service and Innovation Program (PPMI-ITB) and Japan Society for the Promotion of Science (JSPS) KAKENHI (#24510256 and #16H05619).
+We express profound gratitude to Andrew J. Ridgwell for enriching discussions and invaluable guidance in refining the numerical experiment setup. This study received financial support from the Dean's Distinguished Fellowship at the University of California, Riverside, and the ITB Research, Community Service, and Innovation Program (PPMI-ITB).  
