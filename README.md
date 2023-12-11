@@ -12,6 +12,8 @@
 
 This repository contains the code associated with the study employing the cGENIE Earth System Model to investigate the effects of the Indonesian Throughflow (ITF) and Indonesian Archipelago (IA) closure on global meridional thermohaline circulation (THC). The study spans a simulated period of 10,000 years, focusing on critical variables such as surface density, vertical density profiles, global overturning circulation, and ocean ventilation age.
 
+
+
 The following are the individuals involved in this project: [S. H. S. Herho](https://scholar.google.com/citations?user=uYQgjxMAAAAJ&hl=id), [I. P. Anwar](https://scholar.google.co.id/citations?user=NMs_TswAAAAJ&hl=id), [R. D. Susanto](https://scholar.google.com/citations?user=xony5H4AAAAJ&hl=en), [G. A. Firdaus](https://www.linkedin.com/in/gisma2/?originalSubdomain=id), [D. E. Irawan](https://scholar.google.com/citations?user=Myvc78MAAAAJ&hl=en), and [R. Kapid](https://scholar.google.co.id/citations?user=oArSkkYAAAAJ&hl=en).
 
 ## License
@@ -42,6 +44,7 @@ cGENIE muffin version can be obtained from [here](https://github.com/derpycode/c
 ### Data Analysis
 We analyzed the data under the [Python 3](https://www.python.org/) computing environment by using the following libraries:
 
+- [cmocean](https://matplotlib.org/cmocean/)
 - [Matplotlib](https://matplotlib.org/)
 - [NumPy](https://numpy.org/)
 - [SciPy](https://pandas.pydata.org/)
@@ -65,6 +68,19 @@ or as follows (for Anaconda users):
 conda env create -f environment.yml
 conda activate globITFPhysGENIE
 ```
+
+## Hardware Specifications
+We conducted numerical experiments on the sterling.ucr.edu server, which possesses the following specifications:
+
+- Operating System: CentOS Linux release 7.4.1708 (Core)
+- CPU Model: Intel(R) Xeon(R) CPU E5-2637 v4 @ 3.50GHz - 16 CPU(s)
+
+This server was graciously provided by the Department of Earth and Planetary Sciences at the University of California, Riverside.
+
+Simultaneously, the analysis of the model output data was performed on a personal computer with the following configuration:
+
+- Operating System: ArchLinux 6.1.58-1-lts (kernel)
+- CPU Model: Intel i7-5600U (4) @ 3,200GHz
 
 ## Acknowledgements
 We express profound gratitude to Andrew J. Ridgwell for enriching discussions and invaluable guidance in refining the numerical experiment setup. This study received financial support from the Dean's Distinguished Fellowship at the University of California, Riverside, and the ITB Research, Community Service, and Innovation Program (PPMI-ITB).  
